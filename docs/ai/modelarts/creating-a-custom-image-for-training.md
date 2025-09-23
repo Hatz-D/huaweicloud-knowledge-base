@@ -286,7 +286,7 @@ src="/huaweicloud-knowledge-base/assets/images/ai/modelarts/creating-a-custom-im
 style="width:6.26806in;height:3.52222in" />
 
 ```bash
-/home/ma-user/miniconda3/bin/python3.13 \${MA_JOB_DIR}/code/teste.py
+/home/ma-user/miniconda3/bin/python3.13 ${MA_JOB_DIR}/code/teste.py
 ```
 
 Once done, confirm the creation of the job and wait for it to complete.
