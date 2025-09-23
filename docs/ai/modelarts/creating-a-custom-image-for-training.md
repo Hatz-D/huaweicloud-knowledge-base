@@ -1,7 +1,7 @@
 ---
 title: Creating a Custom Image for Training (PyTorch + CPU/GPU)
 layout: default
-parent: ModealArts
+parent: ModelArts
 grand_parent: Artificial Intelligence
 permalink: /docs/ai/modelarts/creating-a-custom-image-for-training
 ---
@@ -51,8 +51,8 @@ Once you've created the bucket, create two folders within bucket: "pytorch" and
 ```bash
 bucket
 ├── pytorch
-├── code
-├── test.py
+    ├── code
+        ├── teste.py
 ├── logs
 ```
 
@@ -88,14 +88,16 @@ style="width:6.26806in;height:3.30625in" />
 Once you've created the ECS, log in to the virtual machine and install Docker
 using the following command:
 
-bash
+```bash
 sudo apt update && sudo apt-get install docker.io -y
+```
 
 After installing Docker, create a folder called "context" and
 navigate to it:
 
-bash
+```bash
 mkdir -p context && cd context
+```
 
 Once done, download the following PyTorch modules:
 
