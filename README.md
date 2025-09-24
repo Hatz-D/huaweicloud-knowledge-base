@@ -1,3 +1,7 @@
+# Important
+
+As of September 24th, 2025, this repository will be deprecated. For future updates, please refer to the repository on the official Huawei Cloud Latam organization: <b><a href="https://github.com/huaweicloud-latam/knowledge-base">repository</a></b>.
+
 # huaweicloud-knowledge-base
 
 This repository is home to a collaborative, public knowledge base website for Huawei Cloud services. In this knowledge base, you can find technical guides for specific scenarios. You can access the website in the following hyperlink: <a href="https://hatz-d.github.io/huaweicloud-knowledge-base/">website</a>, available in English and Portuguese. Use the search bar or the navigation menu to browse the knowledge base.
